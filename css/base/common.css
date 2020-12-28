@@ -1,0 +1,8 @@
+.error {
+    height: auto;
+    color: red;
+}
+
+.error-box {
+    border: 2px solid red;
+}
